@@ -11,7 +11,7 @@ f2 = -0.036 * w
 f3 = 0.0893 * w
 f4 = 0.27 * w
 
-imax = int(input("Enter the number of iterations (max 50000 : "))
+imax = int(input("Enter the number of iterations (max 50000): "))
 
 if imax > 50000: imax = 50000
 
